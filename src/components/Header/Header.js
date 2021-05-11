@@ -20,6 +20,7 @@ const useStyles = makeStyles((theme) => ({
 
 const Header = () => {
   const classes = useStyles();
+
   const { handleSearchInputChange, searchValues, handleKeyDown } =
     useContext(RecipesContext);
 
