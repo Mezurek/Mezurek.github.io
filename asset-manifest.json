@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Mezurek.github.io/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/Mezurek.github.io/static/js/main.f66c94cc.chunk.js",
-    "main.js.map": "/Mezurek.github.io/static/js/main.f66c94cc.chunk.js.map",
+    "main.js": "/Mezurek.github.io/static/js/main.627ba29b.chunk.js",
+    "main.js.map": "/Mezurek.github.io/static/js/main.627ba29b.chunk.js.map",
     "runtime-main.js": "/Mezurek.github.io/static/js/runtime-main.e0303c1c.js",
     "runtime-main.js.map": "/Mezurek.github.io/static/js/runtime-main.e0303c1c.js.map",
     "static/js/2.694f71ef.chunk.js": "/Mezurek.github.io/static/js/2.694f71ef.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.e0303c1c.js",
     "static/js/2.694f71ef.chunk.js",
     "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.f66c94cc.chunk.js"
+    "static/js/main.627ba29b.chunk.js"
   ]
 }
